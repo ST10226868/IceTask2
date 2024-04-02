@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003633828281",
+    "project_id": "opcs-ice-task2",
+    "storage_bucket": "opcs-ice-task2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003633828281:android:50fd14251b2535fccad668",
+        "android_client_info": {
+          "package_name": "com.example.icetask2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe82T8U8pFmraN3Kfrd3HF4kC92qUfwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
