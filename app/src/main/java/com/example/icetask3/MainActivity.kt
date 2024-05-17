@@ -4,11 +4,12 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.example.icetask2.R
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var auth: FirebaseAuth
+    lateinit var auth: FirebaseAuth
     private lateinit var loginButton: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
